@@ -29,7 +29,15 @@ Users can explore various statistics, trends, and insights related to flights, s
 
 ---
 
-## 
+##  👨‍💻 Author
+Arnab Ghosh
+
+---
+
+```bash
+git clone https://github.com/Arnab-Ghosh7/Flight_SQL_App.git
+cd Flight_SQL_App
+
 
 
 
